@@ -1,6 +1,6 @@
 # UNet Android dağıtımı
 
-Güncel sürüm: **1.7.0 (versionCode 17)**
+Güncel sürüm: **1.7.1 (versionCode 18)**
 
 - [Son APK](https://github.com/orhanyilmazink/unet-dist/releases/latest/download/UNet.apk)
 - [Sürüm ve SHA-256 bilgisi](https://github.com/orhanyilmazink/unet-dist/releases/latest/download/version.json)
